@@ -1,3 +1,3 @@
 # Continuous Deployment
 
-![CI](https://github.com/gosp1nord/Continuous_Deployment/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/9w0tp5v208ef342s?svg=true)](https://ci.appveyor.com/project/gosp1nord/continuous-deployment)
